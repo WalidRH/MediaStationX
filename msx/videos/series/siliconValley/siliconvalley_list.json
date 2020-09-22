@@ -1,0 +1,29 @@
+{
+   "type": "list",
+   "headline": "Silicon Valley",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "iconSize": "medium",
+      "title": "Title",
+      "titleFooter": "Title Footer"
+   },
+   "items": [
+      {
+         "image": "http://192.168.1.20/msx/films/SiliconValley/S01/poster.jpg",
+         "title": "Season 1",
+         "action": "panel:http://192.168.1.20/msx/videos/series/siliconValley/siliconvalleyS1.json"
+      },
+      {
+         "image": "http://192.168.1.20/msx/films/SiliconValley/S02/poster.jpg",
+         "title": "Season 2",
+         "action": "panel:http://192.168.1.20/msx/videos/series/siliconValley/siliconvalleyS2.json"
+      },
+      {
+         "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+         "title": "Season 3",
+         "action": "panel:http://192.168.1.20/msx/videos/series/siliconValley/siliconvalleyS3.json"
+      }
+   ]
+}

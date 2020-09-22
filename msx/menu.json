@@ -1,0 +1,350 @@
+{
+    "headline": "Home Theater",
+    "menu": [{
+            "icon": "movie",
+            "label": "Movies",
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,4,6",
+                    "color": "msx-glass"                    
+                },
+                "items": [
+                    {
+                        "title": "17 Again",
+                        "image": "http://192.168.1.20/msx/films/17%20Again/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/17%20Again/movie.mkv"
+                        },
+                        {
+                        "title": "30 days of night",
+                        "image": "http://192.168.1.20/msx/films/30%20days%20of%20night/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/30%20days%20of%20night/30.Days.Of.Night.2007.1080p.BrRip.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "100 Ghost Street The Return of Richard Speck",
+                        "image": "http://192.168.1.20/msx/films/100%20Ghost%20Street%20The%20Return%20of%20Richard%20Speck/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/100%20Ghost%20Street%20The%20Return%20of%20Richard%20Speck/100.Ghost.Street.The.Return.of.Richard.Speck.2012.1080p.BluRay.H264.AAC-RARBG.mp4"
+                        },
+                        {
+                        "title": "A Bad Moms Christmas 2017",
+                        "image": "http://192.168.1.20/msx/films/A%20Bad%20Moms%20Christmas%202017/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/A%20Bad%20Moms%20Christmas%202017/A.Bad.Moms.Christmas.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "A Quiet Place (2018)",
+                        "image": "http://192.168.1.20/msx/films/A%20Quiet%20Place%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "videohttp://192.168.1.20/msx/films/A%20Quiet%20Place%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/A.Quiet.Place.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "A Simple Favor (2018)",
+                        "image": "http://192.168.1.20/msx/films/A%20Simple%20Favor%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/A%20Simple%20Favor%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/A.Simple.Favor.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "About a Boy",
+                        "image": "http://192.168.1.20/msx/films/About%20a%20Boy/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/About%20a%20Boy/About.A.Boy(Xvid)DmT-FileNeXus.avi"
+                        },
+                        {
+                        "title": "Algorithm",
+                        "image": "http://192.168.1.20/msx/films/Algorithm/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Algorithm/Algorithm.The.Hacker.Movie.2014.1080p.WEB.h264-spamTV.mkv"
+                        },
+                        {
+                        "title": "Alien Abduction",
+                        "image": "http://192.168.1.20/msx/films/Alien%20Abduction/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Alien%20Abduction/Alien.Abduction.2014.1080p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Alien Covenant",
+                        "image": "http://192.168.1.20/msx/films/Alien%20Covenant/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Alien%20Covenant/Alien.Covenant.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Alpha (2018)",
+                        "image": "http://192.168.1.20/msx/films/Alpha%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Alpha%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/Alpha.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "American Sniper",
+                        "image": "http://192.168.1.20/msx/films/American%20Sniper/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/American%20Sniper/American.Sniper.2014.720p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Annabelle Creation (2017)",
+                        "image": "http://192.168.1.20/msx/films/Annabelle%20Creation%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Annabelle%20Creation%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/Annabelle.Creation.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Annihilation (2018)",
+                        "image": "http://192.168.1.20/msx/films/Annihilation%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Annihilation%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/Annihilation.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Another Time (2018)",
+                        "image": "http://192.168.1.20/msx/films/Another%20Time%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Another%20Time%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/Another.Time.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Ant-Man And The Wasp (2018)",
+                        "image": "http://192.168.1.20/msx/films/Ant-Man%20And%20The%20Wasp%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Ant-Man%20And%20The%20Wasp%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/Ant-Man.And.The.Wasp.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Atomic Blonde",
+                        "image": "http://192.168.1.20/msx/films/Atomic%20Blonde/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Atomic%20Blonde/Atomic.Blonde.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Automata (2014)",
+                        "image": "http:http://192.168.1.20/msx/films/Automata/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Automata/Aut%f3mata.2014.720p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Avengers Age of Ultron",
+                        "image": "http://192.168.1.20/msx/films/Avengers%20Age%20of%20Ultron/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Avengers%20Age%20of%20Ultron/Avengers.Age.of.Ultron.2015.TC720P.x264.AAC.English.CHS.Mp4Ba.mkv"
+                        },
+                        {
+                        "title": "Avengers Infinity War (2018)",
+                        "image": "http://192.168.1.20/msx/films/Avengers%20Infinity%20War%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Avengers%20Infinity%20War%20(2018)%20%5bWEBRip%5d%20%5b720p%5d%20%5bYTS.AM%5d/Avengers.Infinity.War.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Baby Driver",
+                        "image": "http://192.168.1.20/msx/films/Baby%20Driver/poster.jpg",
+                        "action": "videohttp://192.168.1.20/msx/films/Baby%20Driver/Baby.Driver.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Bad Moms",
+                        "image": "http://192.168.1.20/msx/films/Bad%20Moms/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Bad%20Moms/Bad.Moms.2016.720p.BluRay.H264.AAC-RARBG.mp4"
+                        },
+                        {
+                        "title": "Baked in Brooklyn",
+                        "image": "http://192.168.1.20/msx/films/Baked%20in%20Brooklyn/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Baked%20in%20Brooklyn/Baked.in.Brooklyn.2016.WEBRip.x264-RARBG.mp4"
+                        },
+                        {
+                        "title": "Batman V Superman Dawn_of_Justice",
+                        "image": "http://192.168.1.20/msx/films/Batman%20V%20Superman%20Dawn_of_Justice/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Batman%20V%20Superman%20Dawn_of_Justice/Batman.V.Superman.Dawn.of.Justice.2016.720p.HDTC.x264.ShAaNiG.mkv"
+                        },
+                        {
+                        "title": "Battle Los Angeles",
+                        "image": "http://192.168.1.20/msx/films/Battle%20Los%20Angeles/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Battle%20Los%20Angeles/Battle.Los.Angeles.2011.1080p.Bluray.x264.anoXmous.mp4"
+                        },
+                        {
+                        "title": "Beowulf",
+                        "image": "http://192.168.1.20/msx/films/Beowulf/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Beowulf/Beowulf%202007%201080p.mkv"
+                        },
+                        {
+                        "title": "Beyond Skyline",
+                        "image": "http://192.168.1.20/msx/films/Beyond%20Skyline/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Beyond%20Skyline/Beyond.Skyline.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Black Panther (2018)",
+                        "image": "http://192.168.1.20/msx/films/Black%20Panther%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Black%20Panther%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/Black.Panther.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Blackhat 2015",
+                        "image": "http://192.168.1.20/msx/films/Blackhat%202015/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Blackhat%202015/Blackhat.2015.RERiP.FRENCH.BDRip.XviD-GLUPS.avi"
+                        },
+                        {
+                        "title": "Bleeding Steel (2017)",
+                        "image": "http://192.168.1.20/msx/films/Bleeding%20Steel%20(2017)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Bleeding%20Steel%20(2017)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/Bleeding.Steel.2017.720p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Blockers (2018)",
+                        "image": "http://192.168.1.20/msx/films/Blockers%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.png",
+                        "action": "video:http://192.168.1.20/msx/films/Blockers%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/Blockers.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Bolt (2008)",
+                        "image": "http://192.168.1.20/msx/films/Bolt%20(2008)/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Bolt%20(2008)/Bolt.2008.720p.BrRip.x264.YIFY.mkv"
+                        },
+                        {
+                        "title": "Boo 2",
+                        "image": "http://192.168.1.20/msx/films/Boo%202/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Boo%202/Boo.2!.A.Madea.Halloween.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Cars 3",
+                        "image": "http://192.168.1.20/msx/films/Cars%203/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Cars%203/Cars.3.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Cell",
+                        "image": "http://192.168.1.20/msx/films/Cell/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Cell/Cell,%20The%20(2000).mp4"
+                        },
+                        {
+                        "title": "Central Intelligence 2016",
+                        "image": "http://192.168.1.20/msx/films/Central%20Intelligence%202016/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Central%20Intelligence%202016/Central.Intelligence.2016.720p.HC.WEBRip.850MB.MkvCage.mkv"
+                        },
+                        {
+                        "title": "Changeling (2008)",
+                        "image": "http://192.168.1.20/msx/films/Changeling%20(2008)/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Changeling%20(2008)/Changeling(2008)720p.x264.mkv"
+                        },
+                        {
+                        "title": "Chernobyl",
+                        "image": "http://192.168.1.20/msx/films/Chernobyl/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Chernobyl/Chernobyl.2012.1080p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Chronicle",
+                        "image": "http://192.168.1.20/msx/films/Chronicle/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Chronicle/Chronicle%20(2012)%20DVDRip%20NL%20subs%20DutchReleaseTeam.avi"
+                        },
+                        {
+                        "title": "Daddy's Home 2 (2017)",
+                        "image": "http://192.168.1.20/msx/films/Daddy's%20Home%202%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Daddy's%20Home%202%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/Daddy's.Home.2.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Dans La Maison",
+                        "image": "http://192.168.1.20/msx/films/Dans%20La%20Maison/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Dans%20La%20Maison/%5bwww.Cpasbien.me%5d%20Dans.La.Maison.2012.FRENCH.DVDRip.XviD-UTT.avi"
+                        },
+                        {
+                        "title": "Dark Skies (2013)",
+                        "image": "http://192.168.1.20/msx/films/Dark%20Skies%20(2013)/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Dark%20Skies%20(2013)/Dark.Skies.2013.720p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Darkest Day",
+                        "image": "http://192.168.1.20/msx/films/Darkest%20Day/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Darkest%20Day/Darkest.Day.2015.1080p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Deadpool",
+                        "image": "http://192.168.1.20/msx/films/Deadpool/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Deadpool/Deadpool.2016.720p.HC.HDRip.800MB.MkvCage.mkv"
+                        },
+                        {
+                        "title": "Deadpool 2",
+                        "image": "http://192.168.1.20/msx/films/Deadpool%202/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Deadpool%202/Deadpool.2.2018.720p.WEBRip.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Deepwater Horizon",
+                        "image": "http://192.168.1.20/msx/films/Deepwater%20Horizon/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Deepwater%20Horizon/Deepwater.Horizon.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Despicable Me",
+                        "image": "http://192.168.1.20/msx/films/Despicable%20Me/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Despicable%20Me/Despicable.Me.2010.1080p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Despicable Me 3",
+                        "image": "http://192.168.1.20/msx/films/Despicable%20Me%203/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Despicable%20Me%203/Despicable%20Me%203%202017%201080p%20WEBRip%201.2%20GB%20-%20iExTV.mp4"
+                        },
+                        {
+                        "title": "Dirty Grandpa",
+                        "image": "http://192.168.1.20/msx/films/Dirty%20Grandpa/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Dirty%20Grandpa/Dirty.Grandpa.2016.1080p.BluRay.H264.AAC-RARBG.mp4"
+                        },
+                        {
+                        "title": "Django Unchained",
+                        "image": "http://192.168.1.20/msx/films/Django%20Unchained/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Django%20Unchained/Django.Unchained.2012.720p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Donnie Darko DIRECTORS CUT",
+                        "image": "http://192.168.1.20/msx/films/Donnie%20Darko%20DIRECTORS%20CUT/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Donnie%20Darko%20DIRECTORS%20CUT/Donnie.Darko.DIRECTORS.CUT.2001.720p.BrRip.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Escape Plan 2 Hades (2018)",
+                        "image": "http://192.168.1.20/msx/films/Escape%20Plan%202%20Hades%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http:http://192.168.1.20/msx/films/Escape%20Plan%202%20Hades%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Escape.Plan.2.Hades.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Eternal Sunshine of the Spotless Mind",
+                        "image": "http://192.168.1.20/msx/films/Eternal%20Sunshine%20of%20the%20Spotless%20Mind/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Eternal%20Sunshine%20of%20the%20Spotless%20Mind/Eternal.Sunshine.of.the.Spotless.Mind.2004.720p.BrRip.x264.BOKUTOX.YIFY.mp4"
+                        },
+                        {
+                        "title": "Extraterrestrial",
+                        "image": "http://192.168.1.20/msx/films/Extraterrestrial/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Extraterrestrial/Extraterrestrial.2014.1080p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Fight Club",
+                        "image": "http://192.168.1.20/msx/films/Fight%20Club/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Fight%20Club/Fight.Club.10th.Anniversary.Edition.1999.720p.BrRip.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Free State Of Jones",
+                        "image": "http://192.168.1.20/msx/films/Free%20State%20Of%20Jones/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Free%20State%20Of%20Jones/Free.State.Of.Jones.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Friend Request",
+                        "image": "http://192.168.1.20/msx/films/Friend%20Request/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Friend%20Request/Friend.Request.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        },
+                        {
+                        "title": "Friends With Benefits",
+                        "image": "http://192.168.1.20/msx/films/Friends%20With%20Benefits/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Friends%20With%20Benefits/Friends.with.Benefits.2011.720p.BrRip.264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Furious 6",
+                        "image": "http://192.168.1.20/msx/films/Furious%206/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Furious%206/Furious.6.2013.1080p.BluRay.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Galveston (2018)",
+                        "image": "http://192.168.1.20/msx/films/Galveston%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Galveston%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/Galveston.2018.720p.BluRay.x264-%5bYTS.AM%5d.mp4"
+                        },
+                        {
+                        "title": "Game Night (2018)",
+                        "image": "http://192.168.1.20/msx/films/Game%20Night%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Gamer/Gamer.2009.720p.BrRip.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Gamer",
+                        "image": "http://192.168.1.20/msx/films/Gamer/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Gamer/Gamer.2009.720p.BrRip.x264.YIFY.mp4"
+                        },
+                        {
+                        "title": "Geostorm (2017)",
+                        "image": "http://192.168.1.20/msx/films/Geostorm%20(2017)%20%5bYTS.AG%5d/poster.jpg",
+                        "action": "video:http://192.168.1.20/msx/films/Geostorm%20(2017)%20%5bYTS.AG%5d/Geostorm.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4"
+                        }
+                ]
+            }
+        }, {
+            "icon": "video-library",
+            "label": "Series",
+            "data": {
+                "type": "pages",      
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,4",
+                    "color": "msx-glass"                    
+                },
+                "items": [
+                            {
+                                "image": "http://192.168.1.20/msx/films/SiliconValley/poster.jpg",
+                                "title": "Silicon Valley",
+                                "action": "content:http://192.168.1.20/msx/videos/series/siliconValley/siliconvalley_list.json"
+                            }
+                ]
+            }
+        }]
+}

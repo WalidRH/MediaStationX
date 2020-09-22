@@ -1,0 +1,63 @@
+{
+    "type": "list",
+    "headline": "Silicon Valley - Season 3",
+    "template": {
+       "type": "separate",
+       "layout": "0,0,2,4",
+       "color": "msx-glass",
+       "iconSize": "medium",
+       "title": "Title"
+    },
+    "items": [
+        {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 01",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E01.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 02",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E02.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 03",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E03.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 04",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E04.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 05",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E05.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 06",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E06.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 07",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E07.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 08",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E08.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 09",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E09.x265.1080p.BluRay.AnimDL.ir.mkv"
+            },
+            {
+            "image": "http://192.168.1.20/msx/films/SiliconValley/S03/poster.jpg",
+            "title": "Episode 10",
+            "action": "video:http://192.168.1.20/msx/films/SiliconValley/S03/Silicon.Valley.S03E10.x265.1080p.BluRay.AnimDL.ir.mkv"
+            }                      
+    ]
+ }

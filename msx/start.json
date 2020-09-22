@@ -1,0 +1,5 @@
+{
+    "name": "My TEST MSX :: WAL",
+    "version": "1.0.0",
+    "parameter": "menu:http://192.168.1.20/msx/menu.json"
+}
